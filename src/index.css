@@ -1,0 +1,37 @@
+.app {
+    text-align: center;
+}
+
+.movie-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    text-align: left;
+}
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.filter input {
+    margin: 8px;
+    height:50px;
+    width:100px;
+    text-align: center;
+}
+
+
+form input {
+    margin: 8px;
+    height:70px;
+    width:100px;
+    text-align: center;
+
+}
+
+form button {
+    height :50px;
+    width:100px;
+}
